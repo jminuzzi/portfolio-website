@@ -1,10 +1,10 @@
 # Portfolio Website
 
-Meu portfólio pessoal para apresentar projetos, habilidades e evolução como desenvolvedor.
+Portfólio profissional desenvolvido para apresentar projetos, habilidades técnicas e evolução como desenvolvedor.
 
 ## Objetivo
 
-Criar uma presença profissional online para demonstrar projetos reais, experiência prática e tecnologias estudadas.
+Criar uma presença profissional online para demonstrar experiência prática e projetos reais.
 
 ## Tecnologias
 
@@ -14,8 +14,8 @@ Criar uma presença profissional online para demonstrar projetos reais, experiê
 
 ## Funcionalidades
 
-* Apresentação pessoal
-* Exibição de projetos
+* Apresentação profissional
+* Showcase de projetos
 * Informações de contato
 * Layout responsivo
 
